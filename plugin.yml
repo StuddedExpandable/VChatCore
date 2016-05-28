@@ -1,0 +1,4 @@
+name: VChatCore
+version: 0.1
+main: thevoxstudios.chatcore.ChatCore
+author: TheMasteredPanda
